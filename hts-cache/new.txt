@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:54:38	566/566	---M-Z	200	added ('OK')	text/plain	date:Sun,%2030%20Jun%202024%2013:54:37%20GMT	https://www.cricbuzz.com/robots.txt		(from )
+14:54:38	122116/122116	---M-Z	200	added ('OK')	text/html	date:Sun,%2030%20Jun%202024%2013:54:36%20GMT	https://www.cricbuzz.com/	C:/My%20Web%20Sites/bat%20and%20ball/index-2.html	(from )
